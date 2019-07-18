@@ -1,0 +1,15 @@
+PROJECT TITLE: 15.04 Assignment
+PURPOSE OF PROJECT: Displays the before-and-after reading homework for given classes and compares them
+VERSION or DATE: 4/21/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+Now that I know the logic and reasoning behind the compareTo method, I understand 
+it much more than I did in the past. I now realize how to implement Comparable<T> 
+and how to test the equality (or inequality) of objects under my own conditions, 
+and I find this to be really cool!
+
+This whole process of implementing and modifying compareTo is just simply the way 
+you override the original method to fit your purposes, unless I am mistaken. I can 
+see how useful this will be in future assignments if used creatively!
+-----------------------------------------------------------------------------------

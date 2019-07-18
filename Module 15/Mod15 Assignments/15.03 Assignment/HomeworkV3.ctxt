@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HomeworkV3
+comment0.text=\r\n\ Displays\ the\ before-and-after\ reading\ homework\ for\ given\ classes\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 4/21/2019\r\n
+comment1.params=pages
+comment1.target=void\ getWork(int)
+comment2.params=
+comment2.target=HomeworkV3()
+comment3.params=
+comment3.target=int\ getPages()
+comment4.params=pages
+comment4.target=void\ setPages(int)
+comment5.params=
+comment5.target=java.lang.String\ getHw()
+comment6.params=hw
+comment6.target=void\ setHw(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

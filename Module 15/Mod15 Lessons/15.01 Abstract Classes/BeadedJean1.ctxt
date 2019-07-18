@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BeadedJean1
+comment0.text=\r\n\ This\ class\ BeadedJean\ is\ a\ BasicJean\ with\ beads\ designed\ in\ a\ pattern.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=numPockets\ numBeads
+comment1.target=BeadedJean1(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BeadedJean\r\n
+comment2.params=
+comment2.target=void\ design()
+comment3.params=
+comment3.target=int\ getNumBeads()
+comment4.params=
+comment4.target=java.lang.String\ getPattern()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

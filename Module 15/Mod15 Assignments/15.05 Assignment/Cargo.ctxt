@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cargo
+comment0.text=\r\n\ Class\ for\ cargo\ planes\ that\ extends\ Plane.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 4/21/2019\r\n
+comment1.params=name\ cost
+comment1.target=Cargo(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ fly()
+numComments=3

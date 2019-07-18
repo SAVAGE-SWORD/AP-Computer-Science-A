@@ -1,0 +1,19 @@
+PROJECT TITLE: 15.03 Assignment
+PURPOSE OF PROJECT: Displays the before-and-after reading homework for given classes
+VERSION or DATE: 4/15/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+Interfaces are a foreign concept to me. I remember in the Picture Lab seeing the 
+keyword "implements" but never exactly understood the meaning. Now, I see how it 
+works in a practical application.
+
+When I see an interface, at least here, I think of it as another type of abstract 
+class but with a few differences. Basically, it's a more generic form of an 
+abstract class, as it is not tied to a hierarchy and contains the most basic of 
+code, for the sake of flexibility and usability.
+
+In larger projects, I can see how it would apply to multiple class hierarchies, but 
+for these APCS assignments, it seems simpler to just use an abstract class, as they 
+share many similarities...
+-----------------------------------------------------------------------------------

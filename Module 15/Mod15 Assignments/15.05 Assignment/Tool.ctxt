@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tool
+comment0.text=\r\n\ Class\ that\ sets\ the\ name\ and\ cost\ from\ Product\ and\ has\ a\ compareTo\ method\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 4/21/2019\r\n
+comment1.params=name\ cost
+comment1.target=Tool(java.lang.String,\ double)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=cost
+comment4.target=void\ setCost(double)
+comment5.params=
+comment5.target=double\ getCost()
+comment6.params=obj
+comment6.target=int\ compareTo(Tool)
+numComments=7

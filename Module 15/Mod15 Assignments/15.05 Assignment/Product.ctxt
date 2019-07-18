@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Interface\ for\ all\ products.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 4/21/2019\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=double\ getCost()
+numComments=3

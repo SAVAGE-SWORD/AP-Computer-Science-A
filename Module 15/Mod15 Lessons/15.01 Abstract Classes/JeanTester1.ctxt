@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=JeanTester1
+comment0.text=\r\n\ This\ class\ tests\ the\ concreate\ BeadedJean\ class\ that\ \r\n\ extents\ the\ abstract\ class\ BasicJean.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

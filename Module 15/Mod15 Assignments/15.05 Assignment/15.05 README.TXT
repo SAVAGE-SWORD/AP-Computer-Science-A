@@ -1,0 +1,16 @@
+PROJECT TITLE: 15.05 Assignment
+PURPOSE OF PROJECT: Tests the Plane and Tool classes by organizing and displaying an inventory of products
+VERSION or DATE: 4/21/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a really nice cumulative assignment of abstract classes, interfaces, and 
+other features of Java, such as Comparable<T>. I liked the freedom in picking the 
+products to inventory. I wanted to keep it simple, so I used the suggested Tools as 
+my second type of product.
+
+When displaying the total costs in the inventory, I used printf() to guarantee that 
+the prices displayed as a decimal number rather than a scientific number! 
+Everything was done exactly as the instructions asked, and I had a lot of fun on 
+this assignment!
+-----------------------------------------------------------------------------------

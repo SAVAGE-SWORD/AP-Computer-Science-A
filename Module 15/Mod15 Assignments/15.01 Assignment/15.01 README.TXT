@@ -1,0 +1,15 @@
+PROJECT TITLE: 15.01 Assignment
+PURPOSE OF PROJECT: Displays the reading homework for given classes
+VERSION or DATE: 4/15/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a neat assignment and it was very interesting. I like the idea of abstract 
+classes and methods. I remember times where I'd copy and paste an entire new method 
+just to change some words when handling new objects. By overriding the methods in 
+each class, it lets me extremely optimize my code and solve new situations that 
+would otherwise be difficult.
+
+I am very curious about more applications of abstract classes and implementing them 
+in other lessons!
+-----------------------------------------------------------------------------------

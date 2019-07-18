@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Airliner
+comment0.text=\r\n\ Class\ for\ airliner\ planes\ (passenger\ planes)\ that\ extends\ Plane.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 4/21/2019\r\n
+comment1.params=name\ cost
+comment1.target=Airliner(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ fly()
+numComments=3
