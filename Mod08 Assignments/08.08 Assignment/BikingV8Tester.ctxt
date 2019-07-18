@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BikingV8Tester
+comment0.text=\r\n\ Calculates\ the\ distances,\ times,\ and\ average\ speeds\ of\ multiple\ bike\ trips.\r\n\r\n\ @author\:\ Paul\ Chafetz\r\n\ @version\:\ 1/5/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

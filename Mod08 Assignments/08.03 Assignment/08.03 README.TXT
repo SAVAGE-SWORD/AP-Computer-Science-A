@@ -1,0 +1,23 @@
+PROJECT TITLE: 08.03 Assignment (BikingV3)
+PURPOSE OF PROJECT: Calculates the distance and average speed of a bike ride.
+VERSION or DATE: 1/3/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a nice assignment and I liked the topic. It was fun to choose my own idea 
+in regards to what to do for an assignment. At first, I wasn't sure what object I 
+could use that required calculations, but after some time, I settled on a bicycle 
+trip/journey.
+
+I've gotten much more proficient at using static methods and using them to make my 
+code in a procedural fashion. It's really useful and I really like it.
+
+OOP is a neat technique, but I don't quite (yet) see its purpose. I understand that 
+it involves creating an Object and invoking the static methods through the Object. 
+What I don't understand is why. Soon, I'm sure I will see a proper application of 
+OOP and why it is so highly encouraged. 
+
+But if given a static method called myMethod, and a class Object called myClass, 
+myMethod(); is the same thing as myClass.myMethod(); and, so far in the course, can 
+be used interchangeably with no real benefit in terms of code layout and structure?
+-----------------------------------------------------------------------------------
