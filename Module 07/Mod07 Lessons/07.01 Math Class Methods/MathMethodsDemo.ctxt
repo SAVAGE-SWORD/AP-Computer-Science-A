@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MathMethodsDemo
+comment0.text=\r\n\ This\ class\ demonstrates\ the\ use\ of\ several\ members\ of\ the\ Math\ class.\r\n\r\n\ \ \ \ \ NOTE\:\ There\ are\ multiple\ segments\ of\ code\ below.\ After\ you\ understand\r\n\ \ \ \ \ \ \ \ \ \ \ the\ code\ in\ one\ section,\ delete\ block\ comment\ symbols\ (slash\r\n\ \ \ \ \ \ \ \ \ \ \ and\ asterisk)\ in\ order\ to\ continue\ discovering.\r\n\r\n\ @author\ Grace\ Hopper\r\n\ @version\ 06/07/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

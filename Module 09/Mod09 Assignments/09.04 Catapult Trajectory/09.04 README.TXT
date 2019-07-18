@@ -1,0 +1,20 @@
+PROJECT TITLE: 09.04 Challenge Program (Melon and MelonTester)
+PURPOSE OF PROJECT: Determine the trajectories of a melon launched at different speeds and angles.
+VERSION or DATE: 1/20/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This assignment was much easier than some of the work assigned in Module 8. I like 
+that it makes me use OOP, but gives me the creativity on how I want to go about it. 
+Originally, I was intending to use an ArrayList with each object being a new 
+speed and angle, but I chose to do it differently.
+
+When I was first taught OOP, the lessons encouraged that I use multiple methods 
+that do individual tasks to the private instance variables (mutate and then get). 
+
+However, for this project I wanted to do an experiment on how simplistic I could 
+keep the code, especially by using as few methods as I needed, reasonably. 
+Ultimately, this kept my Tester class extremely clean, as it only needs to call a 
+single method for the program to work! For the sake of this course, is this an 
+encouraged practice, or should I not do it this way?
+-----------------------------------------------------------------------------------

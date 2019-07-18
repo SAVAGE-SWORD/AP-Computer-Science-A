@@ -1,0 +1,20 @@
+PROJECT TITLE: 07.03-4 Defining New Methods (PlanetGravity and PlanetWeight)
+PURPOSE OF PROJECT: Calculates the surface gravity and weight on planets.
+VERSION or DATE: 12/16/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really enjoyed this assignment! I felt that it was a good lesson on how to 
+create and use static methods in context. 
+
+Static methods are amazing! When I first heard that I was going to have to change 
+my entire programming style from now on, I was skeptical and sad at first. But now 
+that I've seen (just a taste of) the efficiency of object-oriented programming in a 
+real scenario, I realized just how useful and valuable they are.
+
+Initially, I thought that these static methods were some unusual or unwieldy parts 
+of Java, but once I read about it, I realized that it was just a fancy name for a 
+function in any other language. Just like how C and C++ run inside a main function 
+that calls other functions, Java has a main method that calls other methods. The 
+only difference is the method header (and coding language!)
+-----------------------------------------------------------------------------------

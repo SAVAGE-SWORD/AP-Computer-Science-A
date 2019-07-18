@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Melon
+comment0.text=\r\n\ Find\ the\ trajectories\ of\ a\ melon\ launched\ at\ different\ speeds\ and\ angles.\r\n\ I\ used\ this\ assignment\ to\ experiment\ with\ a\ minimalist\ style\ of\ coding,\ \r\n\ using\ as\ few\ methods\ as\ reasonable\ and\ necessary.\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 1/20/2019\r\n
+comment1.params=speeds\ angles
+comment1.target=Melon(int[],\ int[])
+comment1.text=\r\n\ Constructor\ for\ Melon.\ It\ uses\ 2\ parameters\ for\ the\ speed\ (mph)\ and\ angle\ (deg)\r\n\ @param\ array\ of\ speeds\ (mph)\r\n\ @param\ array\ of\ angles\ (deg)\r\n
+comment2.params=speedMPH\ angleDeg
+comment2.target=double\ calcTraj(int,\ int)
+comment2.text=\r\n\ Calculates\ and\ gets\ trajectory/range\ for\ a\ melon\ with\ the\ formula\ R\ \=\ speed^2\ *\ sin(2\ *\ angle)\ /\ g\r\n\ @param\ speedMPH\ individual\ speed\ in\ mph\r\n\ @param\ angleDeg\ individual\ angle\ in\ degrees\r\n\ @return\ trajectory/range\ in\ meters\r\n\ Note\:\ 9.80665\ is\ the\ true\ average\ value\ of\ acceleration\ due\ to\ gravity\ on\ Earth\r\n
+comment3.params=
+comment3.target=void\ calcAndPrintTable()
+comment3.text=\r\n\ Assigns\ ranges\ (above)\ to\ a\ 2D\ array\ and\ prints\ it\ in\ a\ table\ format\r\n\ @param\ dist\ a\ 2D\ array\ for\ each\ range\ calculated\ from\ the\ speeds\ and\ angles\r\n
+numComments=4

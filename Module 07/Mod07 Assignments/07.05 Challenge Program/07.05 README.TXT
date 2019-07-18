@@ -1,0 +1,23 @@
+PROJECT TITLE: 07.05 Challenge Program (EstimatePi)
+PURPOSE OF PROJECT: Calculate approximations of pi using using a dartboard simulation.
+VERSION or DATE: 12/28/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+When I first read the lesson and assignment topic, I was really intimidated by what 
+I had to do. But after getting into it, I felt that it wasn't that bad. When you 
+break it down into mental pseudocode, all you have to do is pick random values and 
+determine if they fall in the dartboard or not. Then, divide the hits by the total 
+values and multiply by 4.
+
+Looking at the rubric, it talks about using arrays. However, as you'll notice from 
+the code, I didn't use an array. I admit I could have stored each value of pi into 
+an array, but that was unnecessary. My program works just as well, (and I think is 
+a lot easier!) Besides, the instructions never say to use an array......
+
+This lesson really helped me reinforce my use of static methods, but I still have 
+to get used to it. Sometimes, I still get confused by what goes into the method 
+header and what is actually used/referenced when the method is called in main(). I 
+just call it the same name as to not confuse myself. After all, the method variable 
+is just a placeholder for the values I call in the main method.
+-----------------------------------------------------------------------------------

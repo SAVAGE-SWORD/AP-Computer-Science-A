@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MelonTester
+comment0.text=\r\n\ To\ test\ the\ Melon\ class.\ I\ used\ this\ assignment\ to\ experiment\ with\ a\ \r\n\ minimalist\ style\ of\ coding,\ using\ as\ few\ methods\ as\ reasonable\ and\ necessary.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 1/20/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

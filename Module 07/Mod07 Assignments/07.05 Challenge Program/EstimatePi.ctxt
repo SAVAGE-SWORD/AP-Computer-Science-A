@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EstimatePi
+comment1.params=x\ y\ darts
+comment1.target=int\ hitsInCircle(double,\ double,\ int)
+comment2.params=totHits\ darts
+comment2.target=double\ findPi(double,\ int)
+comment3.params=totalPi\ trials
+comment3.target=void\ findAvePi(double,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

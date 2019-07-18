@@ -1,0 +1,19 @@
+PROJECT TITLE: 07.01 Math Class Methods (CirclePoints)
+PURPOSE OF PROJECT: Calculates the (x,y) coordinates of a circle given the radius.
+VERSION or DATE: 12/3/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a really easy assignment and I liked it a lot. It was simple and quick in 
+teaching me a concise understanding of the Math class and its methods. It so 
+happens that I use phrases like "abs" and "sqrt" in short-hand notes for school, 
+so it is easy to remember the syntax. 
+
+The for-loop was easy to do, as well. The arithmetic formula was a simple use of 
+algebra skills to solve for y (y = sqrt of (r^2-x^2)) and convert that to code. 
+
+To be sure that all incremented values were shown for the options, I added a bit of 
+logic that would change depending on which option you typed in. Using Java's 
+default Classes are interesting, but I'm more excited for making my own methods 
+with their unique parameters and functions!
+-----------------------------------------------------------------------------------
