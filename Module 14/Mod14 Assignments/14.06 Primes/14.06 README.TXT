@@ -1,0 +1,18 @@
+PROJECT TITLE: 14.06 Primes
+PURPOSE OF PROJECT: Displays all prime numbers within a given range
+VERSION or DATE: 4/9/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This is a really cool assignment! I like how the instructions give me total 
+liberty on how I can make the program and how I achieve the end result. Of course, 
+I am being graded on the code, so that's no excuse to do it poorly!
+
+I already have previous knowledge on prime numbers in mathematics and I knew about 
+the Sieve of Eratosthenes,which is his ancient algorithm for calculating prime 
+numbers. If I wanted to use that logic, I'd need an array of booleans and a 
+recurring pattern i² + (n * 1) to check, but I didn't want to use this.
+
+Instead, I found my own solution similar to a segmented sieve that works just as 
+well. If you didn't know, I'm a bit of a geek when it comes to mathematical proofs!
+-----------------------------------------------------------------------------------

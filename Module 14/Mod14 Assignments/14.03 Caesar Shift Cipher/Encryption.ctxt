@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Encryption
+comment0.text=\r\n\ To\ create\ a\ cipher\ encryption\ and\ encrypt\ a\ message\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 4/3/2019\r\n
+comment1.params=
+comment1.target=Encryption()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Encryption\r\n
+comment2.params=shift
+comment2.target=java.lang.String[]\ getCipherAlphabet(int)
+comment2.text=\r\n\ Creates\ and\ prints\ the\ encoded\ cipher\ alphabet\ before\ and\ after\ shift\r\n
+comment3.params=ciphAlpha\ statement
+comment3.target=java.lang.String\ encrypter(java.lang.String[],\ java.lang.String)
+comment3.text=\r\n\ Applies\ encoded\ cipher\ alphabet\ above\ to\ each\ letter\ in\ the\ message\ to\ code\r\n
+numComments=4

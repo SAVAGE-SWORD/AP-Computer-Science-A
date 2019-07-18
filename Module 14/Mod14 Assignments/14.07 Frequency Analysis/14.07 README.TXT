@@ -1,0 +1,15 @@
+PROJECT TITLE: 14.07 Frequency Analysis
+PURPOSE OF PROJECT: Does a frequency analysis of all the letters in a given text
+VERSION or DATE: 4/15/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I had a lot of fun with this assignement. The logic of counting the characters 
+really tested my creativity and adaptability to unusual coding applications. When I 
+figured out how to do it, the rest came rather easy, as it reflected material that 
+I learned long ago. 
+
+Deciphering the message took some time, as I was unsure what the instructions 
+originally asked me to do. Of course, I figured it out. After I found the first 
+line or two, I was able to guess the rest because it was a famous quote by JFK. 
+-----------------------------------------------------------------------------------

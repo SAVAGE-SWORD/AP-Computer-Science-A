@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FreqAnalysis
+comment1.params=inFile\ outFile
+comment1.target=FreqAnalysis(java.io.File,\ java.io.File)
+comment2.params=word
+comment2.target=void\ countChars(java.lang.String)
+comment3.params=
+comment3.target=void\ readFile()
+comment4.params=
+comment4.target=void\ printTable()
+comment5.params=
+comment5.target=void\ writeFile()
+numComments=6

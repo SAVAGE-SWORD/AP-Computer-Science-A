@@ -1,0 +1,17 @@
+PROJECT TITLE: 14.05 Assignment
+PURPOSE OF PROJECT: To rewrite The BikingV8 and Melon classes with the this functionality
+VERSION or DATE: 4/9/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was an easy assignment, but very useful. I remember when I was doing these 
+specific projects that it was very cumbersome to constantly add the prefix "my" to 
+all my uses of the instance varables. I would have times where I would accidentally 
+use the parameter variables only to receive an error, and then have to fix all the 
+wrong variables in the code. 
+
+By using "this," I can keep the same name and not make mistakes when it comes to 
+referencing the correct variables. While it is good to know, I am very much used to 
+the old way of using a prefix and I may not switch how I've learned it. I wish this 
+was taught earlier in the course!
+-----------------------------------------------------------------------------------

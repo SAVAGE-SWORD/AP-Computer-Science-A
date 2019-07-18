@@ -1,0 +1,20 @@
+PROJECT TITLE: 14.03 Caesar Shift Cipher
+PURPOSE OF PROJECT: To encrypt and decrypt messages via a Caesar Shift cipher
+VERSION or DATE: 4/3/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This is one of my favorite assignments yet! I really like "codebreaking" and 
+cryptography, and it was really fun to build a Caesar shift. This was actually 
+slightly easier than I thought it would be. 
+
+My only (very minor) mishap was making sure I correctly shifted the letters 
+according to their alphanumeric position and the shift key. Also, I was initially 
+confused with the difference between a class constant and a class variable. The 
+constants use "final" whereas the variable doesn't, even though they are both 
+declared as static variables in the class itself. 
+
+One thing I feel is that the code itself is redundant, since both the Encryption 
+and Decryption classes share almost identical code. It may just be me, but I wonder 
+if this was actually the most efficient way of approaching this assignment...
+-----------------------------------------------------------------------------------
