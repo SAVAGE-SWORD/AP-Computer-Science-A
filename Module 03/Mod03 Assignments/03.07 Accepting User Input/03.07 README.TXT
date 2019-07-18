@@ -1,0 +1,22 @@
+PROJECT TITLE: 03.07 Accepting User Input (GradesV3)
+PURPOSE OF PROJECT: To calculate average test scores based on grades and total points.
+VERSION or DATE: 10/7/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+Finally! I finally got a chance to use user input in code instead of pre-defined 
+numbers and symbols. I am really excited about how complex I can take this user 
+interaction in Java. I'm sure there are many practical applications and many more 
+forms of input other than the Scanner class.
+
+I find the syntax of Scanner to be a bit too cumbersome and long. You have to first 
+create the object by assigning it as an int, double, or other type like a String, 
+then you have to create the "new" Scanner. I don't exactly understand why you need 
+to include the (System.in) parameter to the Scanner for it to function.
+
+Regardless, it took some formatting for me to figure out how to set the user input 
+to a variable and call it in the testGrade variable for the existing formulas and 
+text responses.
+
+Lastly, I'm sorry if you found my coded responses to be a bit corny!
+-----------------------------------------------------------------------------------

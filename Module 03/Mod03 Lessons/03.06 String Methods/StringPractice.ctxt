@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringPractice
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ demonstrate\ the\ use\ of\ several\ \r\n\ methods\ of\ the\ String\ class.\r\n\ \r\n\ @author\ Ada\ Lovelace\r\n\ @version\ 06/03/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

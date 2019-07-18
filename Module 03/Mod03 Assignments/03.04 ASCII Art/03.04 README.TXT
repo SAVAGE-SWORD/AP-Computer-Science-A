@@ -1,0 +1,19 @@
+PROJECT TITLE: 03.04 ASCII Art (ArtWork)
+PURPOSE OF PROJECT: To use String literals to input and design ASCII art in code.
+VERSION or DATE: 10/6/2018
+AUTHORS: Paul Chafetz
+---------------------------------------PMR-----------------------------------------
+Making ASCII art has always been a fun habit of mine in my free time. 
+I would design simplistic works of art in a text editor and share it online, 
+but I never thought I'd make one with Java! 
+
+This assignment was interesting, but took too long. Creating it was not difficult, 
+but formatting it was. I had to repeat by trial-and-error until I created the 
+art correctly. Since I did it in a psuedo-3D style, that made things more challenging 
+(and fun). 
+
+While I liked the idea of this project, I found it to be cumbersome and a bad 
+example of using escape sequences, even if it's main focus is formatting. 
+Nonetheless, I still learned something pretty cool this time, and I hope I can find 
+a way to apply this to real life.
+-----------------------------------------------------------------------------------

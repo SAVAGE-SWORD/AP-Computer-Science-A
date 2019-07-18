@@ -1,0 +1,22 @@
+PROJECT TITLE: 04.05 Body Mass Index (BMI)
+PURPOSE OF PROJECT: To calculate a user's BMI and display the conditional results.
+VERSION or DATE: 10/13/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I am happy that I finally got to the true "meat and potatoes" of Java: logic. 
+I have always like using if-else logic blocks, each with their own branch. Of 
+course, I like more complex logic problems, like while and for loops because they 
+take more depth of knowledge and critical thinking to optimize the code.
+
+If-else statements are simpler than most of the things I have already learned in 
+this course. To me, it is like writing pseudocode (literally!) with a bit of 
+intuition involved. I'm used to coding where it requires curly braces after the 
+condition, but not parentheses around them, so I tend to get that mixed up. 
+I'll have it worked out soon enough.
+
+Also, I hope you like my rating system "gag" at the end of my code. It was fun 
+adding the score system and each code block to execute in response. When I tested 
+it out and saw it work properly, it made me really happy. It took a bit of time to 
+do, but I hope it brought a smile to your face!
+-----------------------------------------------------------------------------------

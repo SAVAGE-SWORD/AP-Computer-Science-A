@@ -1,0 +1,23 @@
+PROJECT TITLE: 03.09 Online Purchase (FootballGame)
+PURPOSE OF PROJECT: Purpose: To calculate payments for tickets to a football game and issue a receipt.
+VERSION or DATE: 10/9/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This assignment was very similar to 03.07's lesson on accepting user input, but 
+here we had to create our own project with a focus.
+
+I like the idea of making our own "online purchase" program that can receive 
+input to then process a payment and create a receipt from the information. 
+
+I'm still not qutie used to parsing the data, such as the "tickets" String to get 
+the number of tickets. Also, I did the same thing for the PIN to make a 
+somewhat elaborate formula for an order number.
+
+Also, while I did correctly "hide" the account number as intended, I wish I knew 
+a better way to do so. The code just takes a substring of the last four digits, 
+but it cannot account for if the card number does not fit the exact length. If 
+I tried to use indexOf to find the hypens (dashes), it would have only given me 
+the first one and it wouldn't work correctly. Still, I'm happy how it turned out 
+and I'm sorry I'm slightly late with this assignment!
+-----------------------------------------------------------------------------------

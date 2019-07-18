@@ -1,0 +1,25 @@
+PROJECT TITLE: 04.07 Logical Operators (TDEE)
+PURPOSE OF PROJECT: Calculates the TDEE of a person based on conditions of gender and activity in tandem.
+VERSION or DATE: 10/19/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This assignment took me a surprisingly long time compared to the others. I enjoyed 
+the idea of taking gender (another condition) into account. After all, creating a 
+program that can take both genders into account is very difficult and meticulous, 
+creating so many conditions for each scenario.
+
+When I did the logical if-else blocks, I had a choice. I know that the previous 
+lesson literally emphasizes the use of && and other logical operators to deal 
+with the different circumstances and multiple conditions. However, I felt that 
+doing this would be too repetitive. I could have set my isMale boolean in each and 
+every if-condition, and that is probably the way most people would have done it. 
+Instead, I wrapped the if-else block for the menu items in the if-else block that 
+tests if the gender is male or not.
+
+I wrapped the if-else in the if-else because I found it more efficient, so I am 
+sorry if it's "breaking the rules" for this assignment! On another note, comparing 
+the Strings and parsing the data for the calculations was not a problem, as other 
+assignments and lessons have already reinforced that knowledge. I am confident that 
+I have fully understood Module 4 and everything it taught me about logic in Java.
+-----------------------------------------------------------------------------------
