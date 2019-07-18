@@ -1,0 +1,15 @@
+PROJECT TITLE: 13.02 Assignment (Terrain hierarchy of Classes)
+PURPOSE OF PROJECT: Displays information about different terrains to simulate a game.
+VERSION or DATE: 3/17/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really liked this project! It was cool to build my first class hierarchy, with 
+several extended classes. The example of building a game and each different 
+environment extending from Terrain was very clever, and helped me follow the code 
+with ease. 
+
+In terms of the number of Classes, this is the biggest project yet! In the future, 
+I wonder if I'll be able to reuse or recycle Classes from different assignments to 
+help me in the future lessons in this course...
+-----------------------------------------------------------------------------------

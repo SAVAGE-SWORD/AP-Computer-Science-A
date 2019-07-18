@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Square4
+comment0.text=\r\n\ Subclass\ of\ Rectangle\ that\ defines\ a\ Square\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 3/31/2019\r\n
+comment1.params=s
+comment1.target=Square4(int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

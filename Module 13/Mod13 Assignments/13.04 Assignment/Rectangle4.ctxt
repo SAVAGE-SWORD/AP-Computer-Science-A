@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rectangle4
+comment0.text=\r\n\ Superclass\ that\ defines\ a\ Rectangle\ and\ its\ methods\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 3/31/2019\r\n
+comment1.params=l\ w
+comment1.target=Rectangle4(int,\ int)
+comment2.params=
+comment2.target=int\ getLength()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

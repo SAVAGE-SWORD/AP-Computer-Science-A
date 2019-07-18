@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ocean
+comment0.text=\r\n\ Returns\ information\ about\ the\ oceans\ from\ Terrain\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 3/17/2019\r\n
+comment1.params=l\ w\ fish
+comment1.target=Ocean(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ocean\r\n
+comment2.params=
+comment2.target=int\ getFish()
+comment2.text=\r\n\ @return\ the\ number\ of\ fish\r\n
+numComments=3

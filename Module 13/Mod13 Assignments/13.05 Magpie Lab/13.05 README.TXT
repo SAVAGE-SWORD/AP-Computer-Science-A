@@ -1,0 +1,16 @@
+PROJECT TITLE: 13.05 Magpie Lab
+PURPOSE OF PROJECT: A program to carry on conversations with a human user.
+VERSION or DATE: 3/31/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a nice addition to the Magpie Lab project that I did earlier in the 
+course. It's cool to see it all come together and to adapt the algorithm to 
+handle more robust situations. 
+
+Of course, given the limited code put into the program, all it really does is 
+shoot back the statements you give it in a question form. 
+
+To ensure that you see my changes, I added one-line comments that are NOT indented 
+with the code, so you can clearly see where they are.
+-----------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Box1
+comment0.text=\r\n\ This\ class\ defines\ a\ Box\ object\ by\ extending\r\n\ Rectangle\ and\ includes\ height.\r\n\r\n\ @author\ Poly\ Morphism\r\n\ @version\ 06/13/17\r\n
+comment1.params=l\ w\ h
+comment1.target=Box1(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+numComments=3

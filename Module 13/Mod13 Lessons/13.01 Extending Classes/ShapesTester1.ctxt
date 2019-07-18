@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesTester1
+comment0.text=\r\n\ This\ class\ tests\ extending\ classes\ from\r\n\ Rectangle\ to\ Box.\r\n\r\n\ @author\ Poly\ Morphism\r\n\ @version\ 06/13/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

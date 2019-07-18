@@ -1,0 +1,15 @@
+PROJECT TITLE: 13.04 Assignment
+PURPOSE OF PROJECT: Displays information about rectangular shapes
+VERSION or DATE: 3/31/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I enjoyed this assignment very much. It was very interesting how to override 
+default methods with personalized versions. From what I understand, all you do is 
+create a new method with the same name, and this overrides any other versions of 
+the method.
+
+In the case that I override a method multiple times, Java uses the method of the 
+appropriate Class for the Object in question. This gives me so much more freedom 
+when it comes to coding big projects with many differernt Objects.
+-----------------------------------------------------------------------------------

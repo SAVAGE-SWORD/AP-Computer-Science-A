@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GameTerrainTester
+comment0.text=\r\n\ Tester\ class\ for\ the\ Terrain\ Class\ hierarchy,\ which\ displays\ information\r\n\ about\ different\ terrains\ to\ simulate\ a\ game.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 3/17/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

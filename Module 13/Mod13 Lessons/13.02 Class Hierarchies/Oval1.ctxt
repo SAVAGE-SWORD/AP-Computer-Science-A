@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Oval1
+comment0.text=\r\n\ This\ class\ defines\ an\ Oval\ object\ by\ extending\ Circle.\r\n\r\n\ @author\ Poly\ Morphism\r\n\ @version\ 06/13/17\r\n
+comment1.params=x\ y\ rad1\ rad2
+comment1.target=Oval1(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getRadius2()
+numComments=3
