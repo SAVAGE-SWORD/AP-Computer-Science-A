@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AdmissionV1
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ count\ the\ number\ of\r\n\ tickets\ sold\ and\ the\ amount\ of\ money\ received.\r\n\ \r\n\ @author\ Meg\ Abyte\ \r\n\ @version\ 06/02/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

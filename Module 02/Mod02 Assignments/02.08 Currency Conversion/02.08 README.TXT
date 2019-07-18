@@ -1,0 +1,24 @@
+PROJECT TITLE: 02.08 Currency Conversion (CurrencyV1)
+PURPOSE OF PROJECT: To convert different currencies to and from USD and calculate money spent.
+VERSION or DATE: 10/5/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I enjoyed the concept of money conversion for this assignment. I like the fact that 
+I was able to look up exchange rates, set them as variables, and use the variables 
+to quickly convert the miscellaneous values to USD. 
+
+I now understand the value of assigning variables instead of using raw constant 
+numbers. It makes the coding much easier and optimized. 
+
+For my exchange rate information, I googled "exchange rate" and picked out from the 
+list of available currencies to convert.
+https://www.google.com/search?q=exchange+rate&ie=utf-8&oe=utf-8&client=firefox-b-1-ab 
+
+The one part I was slightly confused about at first was the Souvenir section. I did 
+not initially understand that the "total items" line was referring to the total 
+number of items that could be bought with the budget and cost parameters set. Once 
+I figured that out, it was just simple division. The "funds remaining" came easily 
+to me, as I knew that when something is "remaining," I am calculating the subtraction 
+or modulus of an expression, and subtraction was prohibited here.
+-----------------------------------------------------------------------------------

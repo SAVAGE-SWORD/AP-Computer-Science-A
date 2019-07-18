@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculationsV5
+comment0.text=\r\n\ Purpose\:\ To\ perform\ calculations\ and\ assign\ variables\ in\ Java\ to\ solve\ mathematical\ expressions.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 9/29/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradesV1
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ \r\n\ calculate\ the\ average\ of\ four\ grades\r\n\ \r\n\ @author\ Meg\ Abyte\ \r\n\ @version\ 06/11/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

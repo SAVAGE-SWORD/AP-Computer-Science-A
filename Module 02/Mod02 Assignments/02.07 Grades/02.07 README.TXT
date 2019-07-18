@@ -1,0 +1,22 @@
+PROJECT TITLE: 02.07 Grades (GradesV2)
+PURPOSE OF PROJECT: To calculate average test scores based on grades and total points.
+VERSION or DATE: 10/1/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really liked this assignment. I had to use my own intuition and knowledge of 
+coding and programming to figure out the pattern to most efficiently solve the 
+scenario. 
+I immediately understood how to do the numTests variable, using the increment 
+operator to do so. For the total points, my original method did not work and I was 
+confused. I remembered that the += operator would make it such that the 
+totalPoints would be equal to the previous totalPoints plus the current points 
+(grade) of the test I was coding, which solved my dilemma. 
+Once I created the first test in code, every other test was the same code segment 
+with a different starting test grade, which I assume was the point of the 
+assignment: to create a universally applicable program for the situation. 
+Also, I forgot to add the (double) cast to the averages, and I kept getting an 
+output ending in #.0. I reread the lesson instructions and figured out that I 
+needed casting to get an accurate average per test. I'm really happy that I 
+"solved" my first assignment! (even with all the guidance I received...)
+-----------------------------------------------------------------------------------

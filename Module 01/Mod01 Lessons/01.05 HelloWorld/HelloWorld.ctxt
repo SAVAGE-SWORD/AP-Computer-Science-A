@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\r\n\ Purpose\:\ Display\ a\ "Hello,\ World\!"\ message\ to\ the\ screen.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ September\ 23,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
