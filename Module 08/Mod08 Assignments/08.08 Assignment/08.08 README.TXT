@@ -1,0 +1,15 @@
+PROJECT TITLE: 08.08 Assignment (BikingV8 and BikingV8Tester)
+PURPOSE OF PROJECT: Calculates the distances, times, and average speeds of multiple bike trips.
+VERSION or DATE: 1/5/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a tough assignment. It took a long time and a lot of work to "recreate" 
+the existing code as the instructions asked. I'm getting more used to OOP and the 
+subtle details I have to do, but it's tricky.
+
+This was my first time having to find mins, maxes, and averages of values within 
+(an array of) Objects. It took some time, but I figured it out.
+
+It's confusing, but with enough practice, I'll figure it all out.
+-----------------------------------------------------------------------------------

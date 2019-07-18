@@ -1,0 +1,22 @@
+PROJECT TITLE: 08.12 Assignment (EstimatePi and EstimatePiTester)
+PURPOSE OF PROJECT: Calculate approximations of pi using using a dartboard simulation.
+VERSION or DATE: 1/7/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really enjoyed this assignment a lot. It was a lot of fun redoing an old project 
+in a new way. At first, I thought that this would be a very hard assignment, but as 
+I did it, I was surprised. Using OOP has become simple and easy for me all of a 
+sudden!
+
+The original project required user input, so I insisted that I keep that same idea 
+for this one. I was really happy when each object correctly stored the unique dart 
+count I typed in and computed the values of pi accordingly.
+
+With the old project, it only looked at one dart count and trial size entered by 
+user. But with OOP, I was able to make the code do much much more than originally 
+possible: being able to process multiple, unique dart counts each in a different 
+object!
+ 
+OOP, simply put, increased the overall flexibility and adaptability of my code!
+-----------------------------------------------------------------------------------

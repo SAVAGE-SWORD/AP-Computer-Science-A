@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2
+comment0.text=\r\n\ This\ class\ instantiates\ the\ CO2FootprintV2\ object\ with\ three\ \r\n\ private\ instance\ variables.\ It\ contains\ mutator\ methods\ to\ calculate\ and\ \r\n\ convert\ the\ number\ of\ gallons\ of\ gas\ used\ into\ tons\ and\ pounds\ units\ of\ \r\n\ CO2\ produced.\ It\ contains\ getter\ methods\ for\ each\ private\ instance\ \r\n\ variable.\ Private\ instance\ variables\ include\ myGallonsUsed,\ myTonsCO2,\ and\ \r\n\ myPoundsCO2.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 1/6/2019\r\n
+comment1.params=gallons
+comment1.target=CO2FootprintV2(double)
+comment1.text=\r\n\ Constructor\ for\ CO2FootprintV1\ objects\r\n\ @param\ gallons\ number\ of\ gallons\ used\r\n\ Precondition\:\ gallons\ is\ a\ nonnegative\ value\r\n
+comment2.params=
+comment2.target=void\ calcTonsCO2()
+comment2.text=\r\n\ Mutator\ method\ to\ calculate\ and\ convert\ the\ gallons\ used\ into\ \r\n\ the\ tons\ of\ CO2\ (no\ params).\r\n\ Precondition\:\ 8.78E-3\ tons\ of\ CO2\ are\ emitted\ per\ gallon\ of\ gas.\r\n\ Postcondition\:\ The\ value\ of\ myTonsCO2\ will\ always\ be\ less\ than\ \r\n\ myGallonsUsed.\r\n
+comment3.params=
+comment3.target=void\ convertTonsToPounds()
+comment3.text=\r\n\ Mutator\ method\ to\ convert\ the\ tons\ of\ CO2\ into\ pounds(no\ params).\r\n\ Precondition\:\ There\ are\ 2205\ pounds\ per\ metric\ ton.\r\n\ Postcondition\:\ The\ value\ of\ myPoundsCO2\ will\ always\ be\ greater\ than\ \r\n\ myTonsC02.\r\n
+comment4.params=
+comment4.target=double\ getGallons()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ gallons\ used\ (no\ params).\r\n\ @return\ the\ gallons\ used.\r\n
+comment5.params=
+comment5.target=double\ getTonsCO2()
+comment5.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ tons\ of\ CO2\ produced\ (no\ params).\r\n\ @return\ the\ tons\ of\ CO2\ produced\r\n
+comment6.params=
+comment6.target=double\ getPoundsCO2()
+comment6.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ pounds\ of\ CO2\ produced\ (no\ params).\r\n\ @return\ the\ pounds\ of\ CO2\ produced\r\n
+numComments=7
