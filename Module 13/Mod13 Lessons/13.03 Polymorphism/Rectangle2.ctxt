@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Rectangle2
+comment0.text=\r\n\ This\ class\ defines\ a\ Rectangle\ object\ using\r\n\ length\ and\ width.\r\n\r\n\ @author\ Poly\ Morphism\r\n\ @version\ 06/13/17\r\n
+comment1.params=l\ w
+comment1.target=Rectangle2(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=int\ getWidth()
+numComments=5
