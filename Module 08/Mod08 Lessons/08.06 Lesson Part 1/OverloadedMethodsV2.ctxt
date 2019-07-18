@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OverloadedMethodsV2
+comment0.text=\r\n\ This\ program\ demonstrates\ overloading\ methods\ and\r\n\ creating\ separate\ classes\ in\ different\ files.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=
+comment1.target=OverloadedMethodsV2()
+comment2.params=s1\ s2
+comment2.target=int\ calcRectArea(int,\ int)
+comment3.params=s1\ s2
+comment3.target=double\ calcRectArea(double,\ double)
+comment4.params=s1
+comment4.target=int\ calcRectArea(int)
+numComments=5

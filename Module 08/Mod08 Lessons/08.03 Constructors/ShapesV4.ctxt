@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ShapesV4
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ calculate\ the\ hypotenuse\r\n\ of\ a\ triangle\ and\ its\ area.\ All\ calculations\ are\ done\ within\r\n\ methods.\ An\ object\ is\ instantiated\ and\ all\ methods\ are\ invoked\r\n\ on\ the\ object.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=
+comment1.target=ShapesV4()
+comment2.params=w\ l
+comment2.target=double\ calcAreaRectangle(int,\ int)
+comment3.params=w\ l
+comment3.target=int\ calcRectPerimeter(int,\ int)
+comment4.params=r
+comment4.target=double\ calcCircumference(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

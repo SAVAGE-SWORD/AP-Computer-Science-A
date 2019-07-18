@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ShapesV9a
+comment0.text=\r\n\ This\ class\ instantiates\ shapes\ objects\ with\ four\ private\ instance\ variables.\r\n\ It\ contains\ mutator\ methods\ to\ calculate\ the\ area\ of\ a\ triangle\ and\ the\r\n\ hypotenuse\ of\ a\ triangle.\ \ There\ are\ getter\ methods\ for\ each\ private\ instance\r\n\ variable.\ Private\ instance\ variables\ include\ mySide1,\ mySide2,\ myArea,\r\n\ and\ myHypotenuse.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=s1\ s2
+comment1.target=ShapesV9a(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ type\ ShapesV9\r\n\ @param\ s1\ side\ 1\ of\ a\ triangle\r\n\ @param\ s2\ side\ 2\ of\ a\ triangle\r\n\ Precondition\:\ s1\ and\ s2\ are\ positive\ values\r\n
+comment2.params=
+comment2.target=void\ calcTriArea()
+comment2.text=\r\n\ Mutator\ method\ to\ calculate\ the\ area\ of\ a\ triangle\ (no\ parameters).\r\n
+comment3.params=
+comment3.target=double\ getTriArea()
+comment3.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ area\ of\ a\ triangle\ (no\ parameters).\r\n\ @return\ the\ area\ of\ a\ triangle.\r\n
+comment4.params=
+comment4.target=void\ calcHypotenuse()
+comment4.text=\r\n\ Mutator\ method\ to\ calculate\ the\ hypotenuse\ of\ a\ triangle\ (no\ parameters).\r\n
+comment5.params=
+comment5.target=double\ getHypotenuse()
+comment5.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ hypotenuse\ of\ a\ triangle\ (no\ parameters).\r\n\ @return\ the\ hypotenuse\ of\ a\ triangle.\r\n
+comment6.params=
+comment6.target=int\ getSide1()
+comment6.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ side\ 1\ of\ a\ triangle\ (no\ parameters).\r\n\ @return\ side\ 1\ of\ a\ triangle.\r\n
+comment7.params=
+comment7.target=int\ getSide2()
+comment7.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ side\ 2\ of\ a\ triangle\ (no\ parameters).\r\n\ @return\ side\ 2\ of\ a\ triangle.\r\n
+numComments=8

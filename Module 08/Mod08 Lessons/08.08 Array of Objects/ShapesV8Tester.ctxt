@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesV8Tester
+comment0.text=\r\n\ This\ class\ tests\ the\ ShapesV8\ class.\r\n\r\n\ An\ array\ of\ shapes\ objects\ is\ created.\r\n\r\n\ A\ for\ loop\ is\ used\ to\ call\ the\ calcTriArea()\ and\ calcHypotenuse()\ methods\ on\ each\ object.\r\n\ A\ second\ for\ loop\ is\ used\ to\ print\ the\ values\ of\ the\ instance\ variables\ for\ each\ object.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

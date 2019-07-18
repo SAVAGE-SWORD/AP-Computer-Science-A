@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ShapesV5
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ demonstrate\ the\ use\ of\ a\ constructor\r\n\ that\ takes\ parameters.\ Notice\ that\ there\ is\ no\ problem\ with\ two\ constructors\r\n\ with\ the\ same\ name\ as\ long\ as\ their\ parameter\ lists\ are\ different.\ This\ is\r\n\ referred\ to\ as\ overloading\ a\ constructor.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=
+comment1.target=ShapesV5()
+comment2.params=s1\ s2
+comment2.target=ShapesV5(int,\ int)
+comment3.params=
+comment3.target=double\ calcTriArea()
+comment4.params=
+comment4.target=double\ calcHypotenuse()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

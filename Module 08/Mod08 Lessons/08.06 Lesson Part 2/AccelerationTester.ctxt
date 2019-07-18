@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AccelerationTester
+comment0.text=\r\n\ This\ class\ contains\ the\ main\ method\ and\ creates\ an\ object\ of\ the\ Shapes\ class.\r\n\ The\ value\ of\ the\ base\ and\ height\ are\ passed\ to\ the\ private\ instance\ variables\r\n\ when\ the\ shapes\ object\ is\ constructed.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesV9bTester
+comment0.text=\r\n\ This\ class\ tests\ the\ ShapesV9b\ class.\r\n\r\n\ A\ single\ instance\ of\ the\ ShapesV9b\ class\ is\ used\ to\ invoke\ the\ methods\r\n\ and\ calculate\ the\ area\ and\ hypotenuse\ for\ two\ triangles.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

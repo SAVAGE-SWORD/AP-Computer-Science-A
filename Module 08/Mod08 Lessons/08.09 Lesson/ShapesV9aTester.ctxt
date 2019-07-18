@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesV9aTester
+comment0.text=\r\n\ This\ class\ tests\ the\ ShapesV9a\ class.\r\n\r\n\ An\ array\ of\ shapes\ objects\ is\ created\ to\ hold\ the\ four\ private\ instance\ variables.\r\n\r\n\ @author\ Alan\ Kay\r\n\ @version\ 06/08/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
