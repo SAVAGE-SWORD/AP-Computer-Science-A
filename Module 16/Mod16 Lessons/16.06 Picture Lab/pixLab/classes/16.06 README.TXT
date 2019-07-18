@@ -1,0 +1,18 @@
+PROJECT TITLE: 16.06 Picture Lab
+PURPOSE OF PROJECT: To modify pictures by changing its individual pixels
+VERSION or DATE: 5/4/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really had fun with this project, but I'm also kind of happy that it is finally 
+over! Alas, this was very interesting in learning how to copy specific parts of 
+certain images and put them on a "canvas" of another picture, which fascinated me 
+greatly.
+
+The edge detection method was also really cool to play around with and I 
+think my solution to the method is unique and more interesting of a technique. It 
+is better to compare it from the bottom and right, since left and top pixels would 
+be the same thing in their own methods, if applicable. Also, this leads to more 
+refined edge detection with more efficient code, so I'm rather proud of that, even 
+though it wasn't much at all...
+-----------------------------------------------------------------------------------

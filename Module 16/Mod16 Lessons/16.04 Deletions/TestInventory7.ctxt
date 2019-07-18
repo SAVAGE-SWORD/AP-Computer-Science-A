@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestInventory7
+comment0.text=\r\n\ The\ TestInventory7\ class\ demonstrations\ deleting\ \r\n\ elements\ from\ an\ array.\r\n\r\n\ @author\ Jean\ E.\ Sammet\r\n\ @version\ 06/16/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=itemList
+comment2.target=void\ printInventory(InventoryItem[])
+comment3.params=itemList\ find\ replace
+comment3.target=void\ changeItem(InventoryItem[],\ java.lang.String,\ java.lang.String)
+comment4.params=itemList\ location\ addN\ addS
+comment4.target=void\ insertItem1(InventoryItem[],\ int,\ java.lang.String,\ int)
+comment5.params=itemList\ find\ addN\ addS
+comment5.target=void\ insertItem2(InventoryItem[],\ java.lang.String,\ java.lang.String,\ int)
+comment6.params=itemList\ location
+comment6.target=void\ deleteByLoc(InventoryItem[],\ int)
+comment7.params=itemList\ find
+comment7.target=void\ deleteByName(InventoryItem[],\ java.lang.String)
+numComments=8
