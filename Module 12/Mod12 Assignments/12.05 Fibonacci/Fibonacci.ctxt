@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment1.params=n
+comment1.target=int\ fibNum(int)
+comment1.text=\r\n\ find\ the\ Fibonacci\ number\ based\ on\ user\ input\r\n\r\n\ @param\ n\ the\ desired\ number\ in\ the\ Fibonacci\ sequence\r\n\ @return\ desired\ Fibonacci\ number\r\n
+numComments=2

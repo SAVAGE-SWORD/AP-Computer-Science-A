@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringExplorer
+comment0.text=\r\n\ A\ program\ to\ allow\ students\ to\ try\ out\ different\r\n\ String\ methods.\r\n\r\n\ Code\ adapted\ from\ work\ by\ Laurie\ White\ for\ the\ College\ Board.\r\n\r\n\ @author\ (enter\ your\ name)\r\n\ @version\ (enter\ today's\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

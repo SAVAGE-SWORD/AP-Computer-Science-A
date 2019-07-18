@@ -1,0 +1,21 @@
+PROJECT TITLE: 12.09 Magpie Lab (Magpie2 and MagpieRunner2)
+PURPOSE OF PROJECT: A program to carry on conversations with a human user.
+VERSION or DATE: 3/10/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This, being my first lab, was definitely a new experience for me. I really 
+appreciate the new approaches to learning different aspects of coding in Java and 
+just how diverse the capabilties can be! 
+
+I've always known about conversation bots, especially a particularly intelligent 
+one called "Cleverbot." It's cool to see how these programs respond to keywords, 
+but it also show me how difficult it is to create an "intelligent" program. High 
+level programmers actually implement AI and bot training to self-improve, because 
+it is impossible to know every keyword a human can possibly ask, and to hardcode 
+it in the bot.
+
+While I do enjoy this type of assignment, I still prefer the "simpler" way of 
+lessons and assignment projects, like most of the first segment.
+ I have fixed the Magpie2 java file and added comments that indicate where my added responses, keywords, etc. are located. Sorry!
+-----------------------------------------------------------------------------------

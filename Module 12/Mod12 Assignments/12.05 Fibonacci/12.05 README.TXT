@@ -1,0 +1,17 @@
+PROJECT TITLE: 12.05 Fibonacci (Fibonacci and FibonacciTester)
+PURPOSE OF PROJECT: Calculates Fibonacci numbers according to user input.
+VERSION or DATE: 2/25/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This assigment was definitely interesting. I enjoyed the concept of making the 
+Fibonacci sequence in code! That was a lot of fun!
+
+I had some initial trouble with the base case. I only used 0 and 1, but forgot that 
+I needed 2, or else the integer n would be negative! In the end, I figured it out. 
+Recursion is not nearly as bad as I anticipated. I'm still used to iterative 
+coding, but I will definitely try to use more recursion whenever possible. 
+
+As long as I can think of the situation like a piecewise function, I think I can 
+deduce what to do. I just need more exposure to sort it all out in my head!
+-----------------------------------------------------------------------------------
