@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=CO2FootprintV2Tester
-comment0.text=\r\n\ To\ test\ the\ CO2FootprintV2\ class.\r\n\ \r\n\ The\ object,\ CO2FootprintV2,\ is\ created\ to\ hold\ a\ private\ instance\ variable,\ \r\n\ gallonsOfGas\r\n\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
