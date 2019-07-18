@@ -1,0 +1,24 @@
+PROJECT TITLE: 06.02 Weather Data (AnnualWeatherV2)
+PURPOSE OF PROJECT: Displays the average temperature and the annual precipitation for a city.
+VERSION or DATE: 11/24/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a rather easy assignment, yet time-consuming. This assignment was like a 
+review on a variety of things: arithmetic functions, data conversion, and how to 
+effectively use if and for logic loops. The logic section was straightforward to 
+me, at least. I knew what I had to do when I saw that units were involved: use 
+logic to convert to the proper units and display them as necessary.
+
+On the more excited note, I love printf()! It is so simple to use and it just comes 
+naturally to me! At first, it took some time to test different widths until I liked 
+the formatting, but once I got it down, it became very easy. I liked how I could 
+offset the text, as well. I used an empty String "" with a width modifier of how 
+long I want. No more holding down the spacebar any longer!
+
+When you think about it, the syntax (%...) is just an inline placeholder variable 
+for the other variables/values after the comma(s), in their respective order.
+
+I also took some time to read about printf() and the other format specifiers in 
+greater detail, so my next assignment might be even better looking than this one!
+-----------------------------------------------------------------------------------

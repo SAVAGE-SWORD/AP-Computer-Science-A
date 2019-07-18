@@ -1,0 +1,24 @@
+PROJECT TITLE: 05.07 Challenge Program (SecretPasscodes)
+PURPOSE OF PROJECT: Generates user-controlled random passwords from the ASCII character table.
+VERSION or DATE: 11/17/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a challenging assignment, yet I found it very interesting. When I first 
+read this assignment, I immediately thought of using a String of each of the 
+character sets. In fact, I did, and wrote most of the code/logic. It would've used 
+charAt random index values for each character set. 
+
+Then I read that Strings or arrays of the sets were not allowed and I was very 
+frustrated. So, I redid it by picking random numbers in the character set ranges 
+and converting it to chars. Same idea, but a few more steps. :(
+
+The logic section is so long that it was very cumbersome to scroll throught it 
+repeatedly every time I wanted to modify/improve something. Also, BlueJ tends to 
+get laggy and slow after time. This causes the color highlighted blocks to shift 
+and glitch out regularly. And I mean almost all the time. Just scrolling up and 
+down will displace all of the pruple/pink/blue color boxes in my logic...
+
+I'll probably switch to Visual Studio for some time and then port it into BlueJ for 
+saving/packing/etc.
+-----------------------------------------------------------------------------------

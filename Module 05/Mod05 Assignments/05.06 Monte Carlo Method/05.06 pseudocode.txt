@@ -1,0 +1,35 @@
+1. declare all Objects needed (Scanner, Random, File, PrintWriter..)
+2. ask for # of trials
+3. simulate according to Monte Carlo Method
+4. send simulation data to output file
+5. read from output file
+6. print results
+
+
+
+
+--Trial pseudocode
+ask for trials
+	if there are less than 1000 trials
+		tell user and ask for new value
+
+
+--Simulation psuedocode
+for each trial
+	for random numbers between 0 and 10
+		increment the trial count
+	if the random number is 10
+		exit loop
+print trial count to output file
+add previous trial count to current trial count
+reset trial count to 0
+
+--Read File and Results pseudocode
+while the input file has more tokens
+	the trial count is the next integer
+	the total count is the sum of the previous trial count for all tokens
+	increment the count of the target animal (blue jay)
+print number of trials
+print total count of animals
+print total count of blue jays (should equal trials)
+compute and print the average animals to blue jays

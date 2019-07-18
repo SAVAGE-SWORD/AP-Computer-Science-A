@@ -1,0 +1,22 @@
+PROJECT TITLE: 06.04 Challenge Program (Hurricane Selector)
+PURPOSE OF PROJECT: Displays information about hurricanes from a file and then categorizes and calculates values accordingly.
+VERSION or DATE: 11/25/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This took a long, long time...I don't even want to say how long this took. Still, 
+this assignment was interesting in that it was a complete review of everything 
+that was taught so far in the course.
+
+In difficulty and the length of work to do, this was probably the hardest 
+assignment yet. It took a long time to do each task (from the instructions) in code 
+and then go back when I need to do more things. The for-each loop is nice, but only 
+applicable in a few scenarios. For the arrays, I would normally have only used 
+the values based on the year range. Thus, I'd have many more opportunities to use 
+for-each statements (and save time!) However, I had to read the entire file to 
+the arrays, even if the data will not be used. This makes me add another 
+if-statement, which will not work with for-each loops (in my case.) *sigh*
+
+Overall, I'm sure there are some areas that are a bit rough and inefficient. I 
+need to work on streamlining my code...
+-----------------------------------------------------------------------------------

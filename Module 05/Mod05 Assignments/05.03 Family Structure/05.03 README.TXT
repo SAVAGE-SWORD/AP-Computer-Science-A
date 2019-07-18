@@ -1,0 +1,20 @@
+PROJECT TITLE: 05.03 Reading Text Files (Family)
+PURPOSE OF PROJECT: Calculates the probability of family composition from text files.
+VERSION or DATE: 11/4/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I like the idea of reading text files instead of manually entering the information. 
+In the future, I'm looking forward to an opportunity of the program asking the user 
+to "drag and drop" a file, similar to how I submit FLVS documents!
+
+This assignment was rather similar to the Coin Flip lesson earlier. It just 
+took a bit of time to make the while loop and set its conditions. Also, the 
+steps for reading the file is similar to how I set up a Scanner. If I knew more 
+about Objects, I'd get it much more. However, the examples were enough to just use 
+it in this assignment.
+
+The rubric says that percentages should be displayed to 1 or 2 decimal places... 
+As far as I am aware, FLVS never mentioned formatting numbers/values, so I had to 
+do some research to figure out the DoubleFormat class.
+-----------------------------------------------------------------------------------

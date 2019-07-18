@@ -1,0 +1,21 @@
+PROJECT TITLE: 05.06 Monte Carlo Method (AnimalPopulation)
+PURPOSE OF PROJECT: Use Monte Carlo sampling to estimate the average number of animals observed in a given environment.
+VERSION or DATE: 11/11/2018
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was by far the hardest assignment I've had to do in this course. I found the 
+simulation to be extremely difficult. To clarify, reading and writing files is 
+simple. It's just constructing an Object and using a loop to write/read data to or 
+from a file.
+
+The issue was the logic. To properly calculate the animals before the Blue Jay 
+was immensely difficult for me to figure out. It took me several hours of testing 
+to debug the nested loop as the assignment truly wants it to be done.
+
+I disliked the difficulty of this file as the assignment that reinforces "file 
+writing" techniques. This would be more suited to a module project or challenge 
+program!
+
+--pseudocode on attached document
+-----------------------------------------------------------------------------------
