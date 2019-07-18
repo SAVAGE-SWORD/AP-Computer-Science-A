@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestListing3
+comment0.text=\r\n\ This\ class\ demonstrates\ the\ selection\ sort\ algorithm.\r\n\r\n\ @author\ Margaret\ Hamilton\r\n\ @version\ 06/17/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=source
+comment2.target=void\ selectionSort(HouseListing[])
+numComments=3

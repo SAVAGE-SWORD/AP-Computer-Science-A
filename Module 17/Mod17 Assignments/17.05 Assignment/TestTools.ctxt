@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestTools
+comment0.text=\r\n\ Tests\ Tools\ class\ with\ all\ sorting\ algorithms.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 5/12/2019\r\n
+comment1.params=tools
+comment1.target=void\ print(Tools[])
+comment2.params=tools\ sortOrder
+comment2.target=void\ selectionSortName(Tools[],\ int)
+comment3.params=tools\ sortOrder
+comment3.target=Tools[]\ insertionSortProd(Tools[],\ int)
+comment4.params=tools\ low\ mid\ high
+comment4.target=void\ mergeSortPrice(Tools[],\ int,\ int,\ int)
+comment5.params=tools\ low\ high
+comment5.target=void\ sortPrice(Tools[],\ int,\ int)
+comment6.params=tools\ sortOrder
+comment6.target=void\ selectionSortQuant(Tools[],\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

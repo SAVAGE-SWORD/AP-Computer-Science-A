@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MovieTesterV3
+comment0.text=\r\n\ Tester\ class\ for\ MovieV3\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 5/12/2019\r\n
+comment1.params=movies
+comment1.target=void\ print(MovieV3[])
+comment2.params=movies\ sortOrder
+comment2.target=void\ sortTitle(MovieV3[],\ int)
+comment3.params=movies\ sortOrder
+comment3.target=void\ sortYear(MovieV3[],\ int)
+comment4.params=movies\ sortOrder
+comment4.target=void\ sortStudio(MovieV3[],\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

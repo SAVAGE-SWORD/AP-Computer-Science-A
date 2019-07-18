@@ -1,0 +1,14 @@
+PROJECT TITLE: 17.02 Assignment
+PURPOSE OF PROJECT: Use insertion sorting to sort a list of movies by different criteria
+VERSION or DATE: 5/7/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+The lesson content has definitely gotten more difficult now. Nevertheless, I think 
+it is really cool to sort an array by different parameters in question. The 
+algorithm I used is just basically the same as the lesson explains it, but I made 
+minor adjustments for neatness and clarity. The only difference between an 
+ascending or descending order is just the conditional operator in the if-statement, 
+which intrigued me, because I could basically reuse the exact same code but just 
+change the value of comparison with the correct getter method!
+-----------------------------------------------------------------------------------

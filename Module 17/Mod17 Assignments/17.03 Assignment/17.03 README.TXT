@@ -1,0 +1,14 @@
+PROJECT TITLE: 17.03 Assignment
+PURPOSE OF PROJECT: Use selection sorting to sort a list of movies by different criteria
+VERSION or DATE: 5/12/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+Selection sorting is much easier than insertion sorting, if you ask me. I am able 
+to understand the algorithm much more easily and apply it well. I find it much 
+more efficient to use a selection sort than an insertion sort, in terms of 
+programming.
+
+But what I'm not sure of is which version is better. If the outcome is the same, 
+does it matter which sorting algorithm is used in any given circumstance?
+-----------------------------------------------------------------------------------

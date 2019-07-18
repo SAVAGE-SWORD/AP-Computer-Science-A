@@ -1,0 +1,12 @@
+PROJECT TITLE: 17.06 Elevens Lab
+PURPOSE OF PROJECT: Create a card game with appropriate functionality for a deck.
+VERSION or DATE: 5/14/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I am really interested in this Eleven Lab. I like the idea of building a card game 
+and, hopefully, seeing one be fully playable! It was relatively easy to make each 
+of the methods and constructors as asked to do, and I had a fun time doing so. I'm 
+sure it will get harder from here on out, but I'm excited for whatever comes my 
+way in this project!
+-----------------------------------------------------------------------------------

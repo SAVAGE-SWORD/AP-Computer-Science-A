@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tools
+comment0.text=\r\n\ To\ use\ different\ sorting\ algorithms\ to\ sort\ an\ inventory\ of\ tools\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 5/12/2019\r\n
+comment1.params=name\ prod\ price\ quant
+comment1.target=Tools(java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getProd()
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=
+comment5.target=int\ getQuant()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MovieTesterV4
+comment0.text=\r\n\ Tester\ class\ for\ MovieV4\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 5/12/2019\r\n
+comment1.params=movies
+comment1.target=void\ print(MovieV4[])
+comment2.params=movies\ low\ mid\ high
+comment2.target=void\ mergeTitle(MovieV4[],\ int,\ int,\ int)
+comment3.params=movies\ low\ mid\ high
+comment3.target=void\ mergeYear(MovieV4[],\ int,\ int,\ int)
+comment4.params=movies\ low\ mid\ high
+comment4.target=void\ mergeStudio(MovieV4[],\ int,\ int,\ int)
+comment5.params=movies\ low\ high
+comment5.target=void\ sortTitle(MovieV4[],\ int,\ int)
+comment6.params=movies\ low\ high
+comment6.target=void\ sortYear(MovieV4[],\ int,\ int)
+comment7.params=movies\ low\ high
+comment7.target=void\ sortStudio(MovieV4[],\ int,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

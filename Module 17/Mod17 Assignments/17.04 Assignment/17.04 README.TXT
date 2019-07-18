@@ -1,0 +1,16 @@
+PROJECT TITLE: 17.04 Assignment
+PURPOSE OF PROJECT: Use merge sorting to sort a list of movies by different criteria
+VERSION or DATE: 5/12/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+Oh, I do not like merge sorts...
+
+This was, by far, one of the hardest and most frustrating assignments yet. It took 
+me a long time to figure out how merge sorting works with recursion, and I 
+struggled the entire time. I had to continuously refer to the EIMACS and the lesson 
+material to make it work.
+
+I can identify and understand the logic behind the algorithm, but I would not be 
+able to create one on the AP Exam without making some mistakes...
+-----------------------------------------------------------------------------------

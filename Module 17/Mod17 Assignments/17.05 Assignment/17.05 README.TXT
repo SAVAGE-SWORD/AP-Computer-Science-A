@@ -1,0 +1,14 @@
+PROJECT TITLE: 17.05 Assignment
+PURPOSE OF PROJECT: To use different sorting algorithms to sort an inventory of tools
+VERSION or DATE: 5/12/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I liked this challenge program a lot! It was nice to use all the knowledge of the 
+various types of sorting in one program as a cumulative review. Admittedly, I used 
+most of my previous assignments for reference on how to do the sorts, but I did try 
+and do what I could based on memory and logic.
+
+It may be a lot to take in when you run it, so I recommend commenting out each 
+sorting section in the main method to better see my output!
+-----------------------------------------------------------------------------------
