@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=JeanEffects3
+comment0.text=\r\n\ The\ JeanEffects\ class\ is\ an\ interface\r\n\ with\ two\ abstract\ methods.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=s
+comment1.target=void\ fadeJeans(java.lang.String)
+comment2.params=s
+comment2.target=void\ addHoles(java.lang.String)
+numComments=3

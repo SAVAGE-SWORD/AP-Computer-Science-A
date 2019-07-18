@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BeadedJean4
+comment0.text=\r\n\ This\ class\ BeadedJean\ is\ a\ BasicJean\ with\ beads\ designed\ in\ a\ pattern\r\n\ and\ implements\ an\ equals\ method.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=numPockets\ numBeads\ pantSize
+comment1.target=BeadedJean4(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ design()
+comment3.params=
+comment3.target=int\ getNumBeads()
+comment4.params=
+comment4.target=java.lang.String\ getPattern()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=obj
+comment6.target=boolean\ equals(BeadedJean4)
+numComments=7

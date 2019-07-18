@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BasicJean4
+comment0.text=\r\n\ This\ class\ is\ an\ abstract\ class\ defining\ a\r\n\ a\ basic\ pair\ of\ jeans\ and\ defines\ a\r\n\ compareTo\ method\ based\ on\ pant\ size.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=numPockets\ pantSize
+comment1.target=BasicJean4(int,\ int)
+comment2.params=
+comment2.target=void\ design()
+comment3.params=obj
+comment3.target=int\ compareTo(BasicJean4)
+comment4.params=
+comment4.target=int\ getNumPockets()
+comment5.params=n
+comment5.target=void\ setNumPockets(int)
+comment6.params=
+comment6.target=int\ getSize()
+numComments=7

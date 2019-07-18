@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FadedJean3
+comment0.text=\r\n\ This\ class\ defines\ a\ FadedJean\ object\ that\r\n\ extends\ a\ basic\ pair\ of\ jeans\ and\r\n\ implements\ the\ JeanEffects\ interface.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=numPocket\ loc
+comment1.target=FadedJean3(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ design()
+comment3.params=loc
+comment3.target=void\ fadeJeans(java.lang.String)
+comment4.params=loc
+comment4.target=void\ addHoles(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

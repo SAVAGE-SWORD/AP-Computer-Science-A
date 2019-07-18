@@ -1,0 +1,17 @@
+PROJECT TITLE: 15.07 Picture Lab
+PURPOSE OF PROJECT: To modify pictures by changing its individual pixels
+VERSION or DATE: 4/28/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This one took a long time! There was so much to do in this project! But it was a 
+lot of fun in the beginning when I was changing the pixel colors. I always saw 
+those filter effects on my phone and camera and wondered how they are able to 
+change the color of a digital picture. But now I can do it myself! Of all the 
+color modifications I did, the grayscale one was the most interesting.
+
+The mirror methods were more difficult for me at first. I had issues trying to 
+understand the logic behind what I needed to "copy" and mirror. In the end, I used 
+a bit of trial and error and I learned how to traverse the image from top to bottom 
+and left to right in order to mirror it properly.
+-----------------------------------------------------------------------------------

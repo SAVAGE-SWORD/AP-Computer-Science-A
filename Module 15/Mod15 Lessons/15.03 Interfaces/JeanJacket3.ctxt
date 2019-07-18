@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=JeanJacket3
+comment0.text=\r\n\ This\ class\ defines\ a\ JeanJacket\ by\ implementing\ \r\n\ \ the\ JeanEffect\ interface.\r\n\r\n\ @author\ Herman\ Hollerith\r\n\ @version\ 06/15/17\r\n
+comment1.params=numBeads
+comment1.target=JeanJacket3(int)
+comment2.params=
+comment2.target=void\ design()
+comment3.params=level
+comment3.target=void\ fadeJeans(java.lang.String)
+comment4.params=loc
+comment4.target=void\ addHoles(java.lang.String)
+comment5.params=
+comment5.target=int\ getNumBeads()
+comment6.params=
+comment6.target=java.lang.String\ getPattern()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
