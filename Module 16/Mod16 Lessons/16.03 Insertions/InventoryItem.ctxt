@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=InventoryItem
+comment0.text=\r\n\ This\ class\ defines\ an\ InventoryItem\ object.\r\n\r\n\ @author\ Jean\ E.\ Sammet\r\n\ @version\ 06/16/17\r\n
+comment1.params=name\ inStock
+comment1.target=InventoryItem(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getNumInStock()
+comment3.params=num
+comment3.target=void\ setStock(int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

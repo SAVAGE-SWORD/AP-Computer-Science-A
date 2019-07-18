@@ -1,0 +1,19 @@
+PROJECT TITLE: 16.03 and 16.04 Assignment
+PURPOSE OF PROJECT: Lists candidates in an election and modifies the list
+VERSION or DATE: 5/3/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+The insertions part of this assignment was as I expected. It was simple, intuitive, 
+and straightforward to implement, as long as I used the Virtual Lecture Notes as my 
+guide to do it correctly.
+
+However, the deletions algorithm really confused me. It wasn't so much the act of 
+removing the element from the array or ArrayList that confused me, but the part of 
+adapting the code to account for nulls. I knew how to traverse the data structures 
+but wasn't sure the right way to detect for null elements in the array.
+
+My way of doing it works, but it took me lots of trial and error to make it run 
+correctly. Even now, my knowledge on this is a a bit fuzzy, but I'll figure it 
+out in due time.
+-----------------------------------------------------------------------------------

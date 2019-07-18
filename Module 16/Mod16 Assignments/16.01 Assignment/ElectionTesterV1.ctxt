@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ElectionTesterV1
+comment0.text=\r\n\ Tests\ Candidate\ with\ an\ array.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 5/2/2019\r\n
+comment1.params=list
+comment1.target=void\ printVotes(Candidate[])
+comment2.params=list
+comment2.target=int\ getTotal(Candidate[])
+comment3.params=list
+comment3.target=void\ printTally(Candidate[])
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

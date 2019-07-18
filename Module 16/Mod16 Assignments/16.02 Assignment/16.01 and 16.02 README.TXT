@@ -1,0 +1,17 @@
+PROJECT TITLE: 16.01 and 16.02 Assignment
+PURPOSE OF PROJECT: Lists candidates in an election and modifies the list
+VERSION or DATE: 5/2/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was easier than I thought this assignment would be. I understand that the goal 
+is to understand traversing and replacing arrays and their elements, but I think 
+it is slightly tedious. After all, 90% of the V2 and V4 files are copied and 
+pasted from the V1 and V3 files, respectively, with a few changes in the methods.
+
+Nevertheless, it was interesting seeing how replacement worked. I know that the 
+instructions ask that I search the candidate by name, but that is a flawed idea. 
+It would be much easier to assign each candidate a number and modify the data by 
+each candidate's corresponding order, which would significantly reduce user error 
+if this were an interactive assignment.
+-----------------------------------------------------------------------------------

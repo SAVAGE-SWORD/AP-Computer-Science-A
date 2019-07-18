@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ElectionTesterV2
+comment1.params=list
+comment1.target=void\ printVotes(java.util.List)
+comment2.params=list
+comment2.target=int\ getTotal(java.util.List)
+comment3.params=list
+comment3.target=void\ printTally(java.util.List)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

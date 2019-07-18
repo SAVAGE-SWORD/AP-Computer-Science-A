@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ElectionTesterV4
+comment1.params=list
+comment1.target=void\ printVotes(java.util.List)
+comment2.params=list
+comment2.target=int\ getTotal(java.util.List)
+comment3.params=list
+comment3.target=void\ printTally(java.util.List)
+comment4.params=list\ orig\ newName
+comment4.target=void\ changeCandidate(java.util.List,\ java.lang.String,\ java.lang.String)
+comment5.params=list\ orig\ newVotes
+comment5.target=void\ changeVotes(java.util.List,\ java.lang.String,\ int)
+comment6.params=list\ orig\ newName\ newVotes
+comment6.target=void\ changeBoth(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

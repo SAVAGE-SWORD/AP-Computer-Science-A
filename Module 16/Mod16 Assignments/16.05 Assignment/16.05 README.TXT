@@ -1,0 +1,18 @@
+PROJECT TITLE: 16.05 Assignment
+PURPOSE OF PROJECT: Manages and modifies a gradebook of students
+VERSION or DATE: 5/4/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I took some time to really learn these algorithms and how they worked in the 
+previous assignments and how to optimize them for the future. When it comes to 
+checking for null elements, ArrayLists are much easier to use, as you don't need to 
+check!
+
+There was an issue that I was unsure about. I got a very unusual error message: 
+java.lang.OutOfMemoryError: Java heap space. In my original version of this work, 
+there was no break lines to terminate the loops. So does that mean that Java had 
+too many Objects in memory that it couldn't send to the garbage collector? Or was 
+this just a fluke error on my part? To be safe, I added a break line to every 
+method that modified the gradebook, anyway.
+-----------------------------------------------------------------------------------

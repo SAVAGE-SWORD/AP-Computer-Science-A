@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestInventory4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=itemList
+comment2.target=void\ printInventory(java.util.List)
+comment3.params=itemList\ find\ replace
+comment3.target=void\ changeItem(java.util.List,\ java.lang.String,\ java.lang.String)
+numComments=4

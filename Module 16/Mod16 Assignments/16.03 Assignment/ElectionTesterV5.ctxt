@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ElectionTesterV5
+comment0.text=\r\n\ Tests\ Candidate\ with\ an\ array.\r\n\r\n\ @author\ Paul\ Chafetz\r\n\ @version\ 5/3/2019\r\n
+comment1.params=list
+comment1.target=void\ printVotes(Candidate[])
+comment2.params=list
+comment2.target=int\ getTotal(Candidate[])
+comment3.params=list
+comment3.target=void\ printTally(Candidate[])
+comment4.params=list\ orig\ newName
+comment4.target=void\ changeCandidate(Candidate[],\ java.lang.String,\ java.lang.String)
+comment5.params=list\ orig\ newVotes
+comment5.target=void\ changeVotes(Candidate[],\ java.lang.String,\ int)
+comment6.params=list\ orig\ newName\ newVotes
+comment6.target=void\ changeBoth(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment7.params=list\ loc\ newName\ newVotes
+comment7.target=void\ insertPos(Candidate[],\ int,\ java.lang.String,\ int)
+comment8.params=list\ orig\ newName\ newVotes
+comment8.target=void\ insertCand(Candidate[],\ java.lang.String,\ java.lang.String,\ int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

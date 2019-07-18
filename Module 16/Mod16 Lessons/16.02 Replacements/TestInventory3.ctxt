@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestInventory3
+comment0.text=\r\n\ The\ TestInventory3\ class\ demonstrations\ replacing\r\n\ elements\ within\ an\ array.\r\n\r\n\ @author\ Jean\ E.\ Sammet\r\n\ @version\ 06/16/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=itemList
+comment2.target=void\ printInventory(InventoryItem[])
+comment3.params=itemList\ find\ replace
+comment3.target=void\ changeItem(InventoryItem[],\ java.lang.String,\ java.lang.String)
+numComments=4
