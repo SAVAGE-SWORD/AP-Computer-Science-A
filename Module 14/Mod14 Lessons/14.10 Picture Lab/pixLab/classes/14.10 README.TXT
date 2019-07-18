@@ -1,0 +1,16 @@
+PROJECT TITLE: 14.10 Picture Lab
+PURPOSE OF PROJECT: Displays an image and explores it as a 2D array
+VERSION or DATE: 4/15/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This APCS package is way beyond my current level in the course. I've taken some 
+time to look at the affiliated classes in the project, many of which involve things 
+in a larger scale, or that I have not learned.
+
+For the subject of this assignment, I am already very expereienced with RGB, but I 
+usually know it in terms of hexadecimal (00 - FF) rather than 0 - 255. Then again, 
+it's the same thing. The 2D array work was not very difficult either. I am quite 
+good at recalling old material and concepts, so the row-column nested loops came 
+easy for me as I traversed the arrays.
+-----------------------------------------------------------------------------------
