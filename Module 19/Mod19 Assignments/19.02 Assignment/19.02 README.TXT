@@ -1,0 +1,18 @@
+PROJECT TITLE: 19.02 Assignment
+PURPOSE OF PROJECT: Defines a student by name, assignment, and course grade from assignments
+VERSION or DATE: 5/23/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I liked this short and sweet assignment. It was simple to do and did not require 
+tedious amounts of work to create. It also is a good way to utilize exceptions in 
+my code, for debug purposes or other reasons.
+
+Of course, I already took the AP Exam on the 17th (last Friday). I already preread 
+this lesson before the exam, and all I can say is that it was really easy and I 
+feel like I'm getting a guaranteed 4 (at worst) and most likely a 5!!!
+
+But since the actual exam is over, do I really need to do 20.07 Practice Exams and 
+spend 3 hours doing a mock test? If at all possible, it'd be really convenient and 
+kind of you if you can mark that assignment exempt! 
+-----------------------------------------------------------------------------------

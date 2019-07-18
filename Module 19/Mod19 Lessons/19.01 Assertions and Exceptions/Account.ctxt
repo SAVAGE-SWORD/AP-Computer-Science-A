@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\r\n\ This\ class\ defines\ a\ bank\ account\ and\ its\ basic\ functions.\r\n\r\n\ @author\ Marvin\ Minsky\r\n\ @version\ 06/19/17\r\n
+comment1.params=owner\ account\ initial
+comment1.target=Account(java.lang.String,\ int,\ double)
+comment1.text=\r\n\ \ Sets\ up\ the\ account\ by\ defining\ its\ owner,\ account\ number,\r\n\ \ and\ initial\ balance.\r\n
+comment2.params=amount
+comment2.target=double\ deposit(double)
+comment2.text=\r\n\ \ Validates\ the\ transaction,\ then\ deposits\ the\ specified\ amount\r\n\ \ into\ the\ account.\ Returns\ the\ new\ balance.\r\n
+comment3.params=amount\ fee
+comment3.target=double\ withdraw(double,\ double)
+comment3.text=\r\n\ \ Validates\ the\ transaction,\ then\ withdraws\ the\ specified\ amount\r\n\ \ from\ the\ account.\ Returns\ the\ new\ balance.\r\n
+comment4.params=
+comment4.target=double\ addInterest()
+comment4.text=\r\n\ \ Adds\ interest\ to\ the\ account\ and\ returns\ the\ new\ balance.\r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ \ Returns\ the\ current\ balance\ of\ the\ account.\r\n
+comment6.params=
+comment6.target=long\ getAccountNumber()
+comment6.text=\r\n\ \ Returns\ the\ account\ number.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,16 @@
+PROJECT TITLE: 19.03 Elevens Lab
+PURPOSE OF PROJECT: To create a fully operational card game with appropriate methods
+VERSION or DATE: 5/23/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a really cool assignment! I liked how the lesson teaches me the practical 
+benefits of abstract classes and polymorphism, and allows me to better utilize this 
+to make the Elevens Lab easier.
+
+The code for the different method were not difficult and I did them rather easily. 
+I know this is not taught in the course, but what I wish we could learn is not the 
+Board part of this assignment, but rather the GUI and display portions. It is one 
+thing to have text printed on screen, but it's a whole other level when there are 
+literal digital cards and buttons displayed in an "app" on my computer!!!
+-----------------------------------------------------------------------------------

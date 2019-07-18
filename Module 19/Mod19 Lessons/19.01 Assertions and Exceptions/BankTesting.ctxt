@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BankTesting
+comment0.text=\r\n\ This\ class\ demonstrates\ various\ banking\ functions\ for\ an\ account\r\n\ and\ the\ errors\ thrown\ when\ improper\ transactions\ are\ attempted.\r\n\r\n\ @author\ Marvin\ Minsky\r\n\ @version\ 06/19/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
