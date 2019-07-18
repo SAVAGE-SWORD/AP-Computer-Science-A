@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Assignment
+comment0.text=\r\n\ This\ class\ defines\ a\ work\ Assignment\ based\ on\ time,\ \r\n\ location,\ and\ employee\ assigned.\r\n\r\n\ @author\ John\ Henry\ Thompson\r\n\ @version\ 06/18/17\ \r\n
+comment1.params=t\ l\ p
+comment1.target=Assignment(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Assignment\r\n
+comment2.params=t
+comment2.target=void\ setTime(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTime()
+comment4.params=l
+comment4.target=void\ setLocation(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getLocation()
+comment6.params=p
+comment6.target=void\ setPerson(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getPerson()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

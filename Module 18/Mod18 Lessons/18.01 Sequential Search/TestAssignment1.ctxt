@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TestAssignment1
+comment0.text=\r\n\ This\ class\ demonstrates\ the\ sequential\ search\ with\ an\ array\ of\ objects.\r\n\r\n\ @author\ John\ Henry\ Thompson\r\n\ @version\ 06/18/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=void\ printRoster(Assignment[])
+comment3.params=r\ toFind
+comment3.target=void\ findPerson(Assignment[],\ java.lang.String)
+comment4.params=r\ toFind
+comment4.target=void\ findLocation(Assignment[],\ java.lang.String)
+numComments=5

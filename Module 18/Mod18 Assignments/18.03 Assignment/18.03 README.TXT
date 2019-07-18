@@ -1,0 +1,16 @@
+PROJECT TITLE: 18.03 Assignment
+PURPOSE OF PROJECT: To use sequential and binary searching to find different criteria in contacts
+VERSION or DATE: 5/16/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a very tedious assignment. While it does serve as a great review of sorts 
+and searches in arrays, it is very tiring and annoying to code such a long and 
+redundant project. By making us use five different search methods, a linearPrint 
+method, the sort methods, and more, it takes a long time to do everything correctly 
+and I found it to be bothersome.
+
+If this assignment (and others in this style) were half the size, I'd feel just as 
+reinforced in my knowledge without so much work. Nonetheless, I still feel that I 
+benefitted from this assignment, that's for sure.
+-----------------------------------------------------------------------------------

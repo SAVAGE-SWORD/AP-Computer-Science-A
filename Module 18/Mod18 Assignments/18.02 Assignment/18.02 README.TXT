@@ -1,0 +1,16 @@
+PROJECT TITLE: 18.02 Assignment
+PURPOSE OF PROJECT: To create songs and search based on different criteria.
+VERSION or DATE: 5/15/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really like using binary searches! The code isn't much more complex than a 
+sequential search, though it is a bit harder. I think that it's easier to picture 
+when you try and imagine it moving in an array like an inchworm. Somehow, that 
+visual works for me...I don't know why.
+
+For the sort, I decided to use merge sorting because that is my weakest skill and I 
+could use the reinforcement if it is tested for the AP Exam Friday! Also, the 
+linear printing method from the Virtual Notes Lesson wass interesting to apply in 
+this program, as you can use common sense to figure out the start and end points.
+-----------------------------------------------------------------------------------

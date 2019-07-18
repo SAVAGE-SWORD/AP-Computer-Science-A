@@ -1,0 +1,12 @@
+PROJECT TITLE: 18.05 Elevens Lab
+PURPOSE OF PROJECT: Create a card game with appropriate functionality for a deck.
+VERSION or DATE: 5/16/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+I really enjoyed coding the three methods to shuffle the deck of cards. It was cool 
+to see how the program randomly created the cards and reordered them so well, all 
+while adapting to drawn cards and other abnormal states.
+
+I'm curious to see how much more this lab will go!
+-----------------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TestAssignment2
+comment0.text=\r\n\ This\ class\ demonstrates\ the\ binary\ search\ with\ an\ array\ of\ objects.\r\n\r\n\ @author\ John\ Henry\ Thompson\r\n\ @version\ 06/18/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=void\ printRoster(Assignment[])
+comment3.params=r\ toFind
+comment3.target=int\ binarySearchPerson(Assignment[],\ java.lang.String)
+comment4.params=r\ toFind
+comment4.target=void\ binarySearchLoc(Assignment[],\ java.lang.String)
+comment5.params=r\ low\ toFind
+comment5.target=void\ linearPrintLoc(Assignment[],\ int,\ java.lang.String)
+comment6.params=source
+comment6.target=void\ insertionPerson(Assignment[])
+comment7.params=source
+comment7.target=void\ selectionLocation(Assignment[])
+numComments=8

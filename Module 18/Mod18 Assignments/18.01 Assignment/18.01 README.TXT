@@ -1,0 +1,16 @@
+PROJECT TITLE: 18.01 Assignment
+PURPOSE OF PROJECT: To use sequential searching to find different criteria in songs
+VERSION or DATE: 5/14/2019
+AUTHORS: Paul Chafetz
+
+---------------------------------------PMR-----------------------------------------
+This was a very similar assignment to the sorting projects last module. The 
+sequential search is something I've been doing for this entire course, so it comes 
+naturally. For the title search, I know it is more efficient to break the loop once 
+the title is found, but from a coding perspective, it would be easier to just print 
+the element of the music array right from the for-loop, like I've done in previous 
+assignments, even if it traverses the entire array pointlessly.
+
+If the only benefit is reducing runtime and optimizing the process, I'd rather do 
+it the easier way...
+-----------------------------------------------------------------------------------
